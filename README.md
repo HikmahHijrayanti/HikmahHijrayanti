@@ -1,7 +1,7 @@
 # <h1 align="center">Hi There, I'm Hikmah Hijrayanti👋</h1>
 
 ## About me:
-I am an Informatics Engineering student at Bengkulu University who has high curiosity, communicative, thorough, and
+I am an student majoring in Informatics at Bengkulu University who has high curiosity, communicative, thorough, and
 responsible for completing the work. Enjoys learning new things and focuses on details and has aspirations in -
 field of data analysis. Skilled in operating Microsoft, Python, MySQL and data processing
 <br /> - How to reach me: hikmahhijrayanti524@gmail.com 
