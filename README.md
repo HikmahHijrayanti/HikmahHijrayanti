@@ -4,8 +4,7 @@
 I am an Informatics Engineering student at Bengkulu University who has high curiosity, communicative, thorough, and
 responsible for completing the work. Enjoys learning new things and focuses on details and has aspirations in -
 field of data analysis. Skilled in operating Microsoft, Python, MySQL and data processing
-- 📫 How to reach me: hikmahhijrayanti524@gmail.com
-- 💬 Ask me about anything
+<br /> - How to reach me: hikmahhijrayanti524@gmail.com 
 
 ## Education:
 #### 1. [Universitas Bengkulu](https://www.unib.ac.id/) | Informatics Student at Bengkulu University | Bengkulu 2022-Present
@@ -25,6 +24,12 @@ field of data analysis. Skilled in operating Microsoft, Python, MySQL and data p
 #### 2. Company Profile
    - Link : [Company Profile : Al-Hadid](https://hikmahhijrayanti.github.io/HikmahHijrayanti-Tugas-Responsi.github.io/index.html)
 
+## Training and Certification
+  - certificate "Python For Beginners" form sololearn
+  - certificate "Intro to Data Analytics" from RevoU mini Course
+  - certificate "The Acceleration of Indonesia's Transformation to a Digital Economy by Improving Digital Talent" form AWS Educate
+  - certificate "Introduction to Cybersecurity" form cisco Networking Academy
+
 ## Languages:
 #### 1. Bahasa Indonesia
    - Native or bilingual proficiency
@@ -43,7 +48,6 @@ field of data analysis. Skilled in operating Microsoft, Python, MySQL and data p
 ![HTML](https://img.shields.io/badge/-HTML-CA4245?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-3670A0?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-CA4245?style=for-the-badge&logo=JS-icon-set&logoColor=white)
-
 
 
 ---
